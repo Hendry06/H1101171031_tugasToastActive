@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H1101171031_tugasToastActive</string>
+    <string name="button_label_toast">Nama</string>
+    <string name="buttton_label_count_up">Count Up</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hendry Falentine</string>
+</resources>
